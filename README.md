@@ -4,6 +4,8 @@ Program Java sederhana untuk sistem pencatatan barang preloved menggunakan konse
 ---
 
 ## Tema: Sistem Pencatatan Barang Preloved
+<img width="3780" height="1890" alt="BANNER PBO" src="https://github.com/user-attachments/assets/54ad1130-cec5-437b-ae16-59e9bddf8db1" />
+
 ###### Nama: Adella Putri
 ###### Kelas: A, Sistem Informasi 2024
 
