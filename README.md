@@ -52,7 +52,7 @@ Data yang sudah diinput kemudian digabung menjadi satu kesatuan string dan dimas
 #### 5. Update Barang (Update)
 Fitur update diawali dengan menampilkan seluruh daftar barang yang ada. Selanjutnya, pengguna diminta memilih nomor barang yang ingin diperbarui. Jika nomor yang dimasukkan sesuai dengan daftar yang tersedia, maka program akan meminta data baru untuk menggantikan data lama. Setelah semua informasi diinput, data pada indeks yang dipilih akan diperbarui menggunakan perintah set dari ArrayList. Apabila nomor yang dimasukkan tidak valid, maka program menampilkan pesan kesalahan.
 
-#### 6. Hapus Barang (Delete → Sold Out)
+#### 6. Hapus Barang (Delete -> Sold Out)
 Menu hapus barang bekerja dengan menampilkan daftar barang terlebih dahulu. Pengguna kemudian memilih nomor barang yang ingin dihapus. Barang yang terpilih akan langsung dipindahkan dari ArrayList barang ke ArrayList soldOut. Dengan demikian, data tidak benar-benar hilang, melainkan tercatat dalam daftar sold out. 
 Jika input tidak sesuai, program akan memberi peringatan bahwa nomor yang dipilih tidak valid.
 
